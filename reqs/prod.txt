@@ -1,0 +1,8 @@
+-r common.txt
+cssmin>=0.2.0,<=0.2.9
+gevent>=0.13.0,<=0.13.9
+gunicorn>=18.0,<=18.9
+jsmin>=2.0.0,<=2.0.9
+newrelic>=2.0
+psycopg2>=2.5.0,<=2.5.9
+django-heroku-postgresify==0.3
